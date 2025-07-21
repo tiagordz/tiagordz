@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Tiago Rodrigues 
+# 👨🏻‍💻 Tiago Resende
 
 **`Desenvolvedor Back-End`**
 
