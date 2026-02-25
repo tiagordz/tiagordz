@@ -1,6 +1,6 @@
-# 👨🏻‍💻 Tiago Resende
+# 📈 Tiago Resende
 
-**`Desenvolvedor Back-End`**
+**`Building intelligent solutions with Data and Artificial Intelligence`**
 
 Me chamo Tiago A. Rodrigues de Resende, tenho 20 anos e nasci em São Paulo. Atualmente, curso Sistemas de Informação na UAM. Sou fascinado por tecnologia e estou sempre em busca de novas experiências na área, por meio de cursos e projetos que visam aprimorar meus conhecimentos e compartilho minhas conquistas através do meu LinkedIn"[Tiago Resende](https://www.linkedin.com/in/tiago-resende-686a90305/)".
 
