@@ -23,13 +23,6 @@ Me chamo Tiago A. Rodrigues de Resende, tenho 20 anos e nasci em São Paulo. Atu
 
 ### 🧠 Linguagens e Tecnologias
 
-<img 
-align="left"
-alt="Java" 
-title="Java"
-width="35px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" 
 alt="GitHub" 
 title="GitHub"
@@ -51,22 +44,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Oracle"
-    title="Oracle" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Amazon Web Services" 
-    title="Amazon Web Services"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 <img 
     align="left" 
